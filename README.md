@@ -5,7 +5,7 @@ A light Python script to get addresses from your mnemonics.
 
 ## Getting started
 
->pip install web3
+>pip install web3py
 
 >Create a .txt file with your mnemonics. Every new line = new mnemonic.
 
